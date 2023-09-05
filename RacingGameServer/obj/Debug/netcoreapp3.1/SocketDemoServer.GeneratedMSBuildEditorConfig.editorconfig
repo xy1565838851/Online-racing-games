@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SocketDemoServer
+build_property.ProjectDir = C:\7-9InternetGame\SocketServer\SocketDemoServer\
